@@ -1,0 +1,1 @@
+use mpvpaper ( u can find in AUR ) for setting this video ( or any video ) and dont forget to edit hyprland.conf too !
