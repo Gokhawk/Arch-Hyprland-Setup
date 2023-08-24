@@ -3,7 +3,7 @@ My Arch Hyprland Setup with dots
 Distro => Arch Linux
 Audio => PulseAudio
 Bar => Waybar 
-App Laucher => Wofi
+App Launcher => Wofi
 Terminal => Alacritty 
 
 
