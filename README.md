@@ -9,6 +9,8 @@ Terminal => Alacritty
 
 NOTE: Don't forget to check and fix config files ( like changing /home/gokhawk to /home/yourusername ) 
 
+NOTE: I'm changing the bar and some files, i will add the bar from video and a new bar that im using :)
+
 
 
 
